@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "app",
+    "name": "Desafio E.Company",
     "slug": "app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ec5e1c"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.vitor55.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
